@@ -1,0 +1,32 @@
+body{
+    background-color:#ECECEC;
+    color: #000000; 
+    display: flex;
+    
+}
+
+
+.todo-container{
+    
+    background-color: #b8b2b2;
+    width: 500px;
+    height: 500px;  
+}
+
+
+.child{
+    background-color: black;
+    
+}
+
+.test {
+    background-color: aqua;
+    border: #000000;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
